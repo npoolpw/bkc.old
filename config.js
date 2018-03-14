@@ -4,7 +4,7 @@ var poolHost = "bkc.npool.pw";
 
 var blockExplorer = "http://blockexplorer.pw/bkc";
 
-var cryptonatorWidget = ["BTC-USD", "XMR-USD"];
+var cryptonatorWidget = ["BKC-BTC", "BTC-USD"];
 
 var easyminerDownload = "https://github.com/zone117x/cryptonote-easy-miner/releases/";
 
