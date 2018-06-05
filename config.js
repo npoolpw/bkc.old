@@ -1,4 +1,4 @@
-var api = "http://bkc.npool.pw:10040";
+var api = "http://ca.npool.pw:3001";
 
 var poolHost = "bkc.npool.pw";
 
@@ -15,7 +15,7 @@ var transactionExplorer = "http://explorer.balkancoin.org/?hash={id}#blockchain_
 var themeCss = "themes/default-theme.css";
 
 var networkStat = [
-        ["npool.pw/bkc", "http://bkc.npool.pw:10040"],
+        ["npool.pw/bkc", "http://ca.npool.pw:3001"],
         ["miner.balkancoin.org", "http://miner.balkancoin.org:8147"],
         ["bkc.mininggood.com", "http://us2.mininggood.com:8147"],
         ["bkc.euminingpool.com", "http://bkc.euminingpool.com:8147"]
