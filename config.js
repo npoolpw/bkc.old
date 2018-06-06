@@ -6,8 +6,6 @@ var blockExplorer = "http://explorer.balkancoin.org/";
 
 var cryptonatorWidget = ["BKC-BTC", "BTC-USD"];
 
-var easyminerDownload = "https://github.com/zone117x/cryptonote-easy-miner/releases/";
-
 var blockchainExplorer = "http://explorer.balkancoin.org/?hash={id}#blockchain_block";
 
 var transactionExplorer = "http://explorer.balkancoin.org/?hash={id}#blockchain_transaction";
